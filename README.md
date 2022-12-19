@@ -1,6 +1,12 @@
-# Svelte + TS + Vite
+# Svelte + TS + Vite 4 + Tailwind + StoryBook 7 (beta)
 
 This template should help get you started developing with Svelte and TypeScript in Vite.
+
+```bash
+npx degit ironpark/svelte-vite4-tailwind-ts-storybook7-template awesome-project
+cd awesome-project
+npm install # or yarn
+```
 
 ## Recommended IDE Setup
 
